@@ -1,9 +1,5 @@
 ## Hwa Jin Choi
 
-You can use the [editor on GitHub](https://github.com/HwajinChoi/Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Education
 :school:	**MA in Division of Environmental Science and Engineering    2019-present**
           Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
