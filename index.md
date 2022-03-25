@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Hwa Jin Choi
 
 You can use the [editor on GitHub](https://github.com/HwajinChoi/Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Education
+:school:	**MA in Division of Environmental Science and Engineering    2019-present**
+          Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
+:school:	**BA in Ocean Science, Minor in Biology                      2014 - 2018**
+          Inha University, Incheon, Republic of Korea
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Relevant Experience
+**Intern                                            October 2017 – 2018**
+Units of Arctic Sea-Ice Prediction, Korea Polar Research Institution (KOPRI)
+•	Reproduce GFDL-CM2.1 combined with TOPAZ
+•	Simulate Community Land Model version 4.5 (CLM4.5)
+•	Validate Arctic river runoff simulated by CLM4.5 with R-ArcticNet dataset
 
-```markdown
-Syntax highlighted code block
+## Research Interests
+•	Arctic climate change
+•	Change of hydrologic cycle in the Arctic
+•	Modeling and simulation of global biogeochemical cycle
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HwajinChoi/Home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Presentation
+**Poster presentation**
+•	“Validation of Arctic river runoff simulated by Community Land Model (CLM4.5-BGC) with R-ArcticNet dataset”, Academic autumn meeting of the Korean Meteorological Society, Jeju, Korea, 2018
+•	“Verification of the North Equational Current Bifurcation in the Data Assimilation System of KIOST (DASK)”, Academic spring meeting of the Korean Society of Oceanography, Busan, Korea, 2017
