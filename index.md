@@ -2,9 +2,9 @@
 
 ## Education
 :school:	**MA in Division of Environmental Science and Engineering    2019-present**
-          Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
+Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
 :school:	**BA in Ocean Science, Minor in Biology                      2014 - 2018**
-          Inha University, Incheon, Republic of Korea
+Inha University, Incheon, Republic of Korea
 
 ## Relevant Experience
 **Intern                                            October 2017 – 2018**
