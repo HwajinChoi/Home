@@ -1,6 +1,8 @@
 title: Hwa Jin Choi
 email: a01045960620@gmail.com
-baseurl: "Home"
+url: "https://hwajinchoi.github.io/Home/"
+baseurl: "/Home"
+repository: "https://github.com/HwajinChoi/Home"
 
 author:
   name  : "Hwa Jin Choi"
