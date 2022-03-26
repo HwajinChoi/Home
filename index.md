@@ -8,7 +8,7 @@ Inha University, Incheon, Republic of Korea
 
 ## Relevant Experience
 **Researcher                                        March 2021 - present**\
-Department of Earth and Environmental Sciences, Chonbuk National University
+Department of Earth and Environmental Sciences, Chonbuk National University\
 •	Simulate Nucleus for European Modelling of the Ocean (NEMO4.0.6)\
 
 **Intern                                            October 2017 – 2018**\
