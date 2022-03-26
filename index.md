@@ -1,9 +1,9 @@
 ## Hwa Jin Choi
 
 ## Education
-:school:	**MA in Division of Environmental Science and Engineering    2019-present**\
+:school:**MA in Division of Environmental Science and Engineering    2019-2021**\
 Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea\
-:school:	**BA in Ocean Science, Minor in Biology                      2014 - 2018**\
+**BA in Ocean Science, Minor in Biology                      2014 - 2018**\
 Inha University, Incheon, Republic of Korea
 
 ## Relevant Experience
