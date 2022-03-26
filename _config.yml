@@ -2,5 +2,14 @@ title: Hwa Jin Choi
 email: a01045960620@gmail.com
 baseurl: "Home"
 
+author:
+  name  : "Hwa Jin Choi"
+  avatar : ""
+  location : "Korea"
+  email :
+  links :
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:a01045960620email.com  
 # Build settings
 theme: jekyll-theme-minimal
