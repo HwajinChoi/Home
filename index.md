@@ -7,7 +7,7 @@ Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
 Inha University, Incheon, Republic of Korea
 
 ## Relevant Experience
-**Intern                                            October 2017 – 2018**
+**Intern                                            October 2017 – 2018**\
 Units of Arctic Sea-Ice Prediction, Korea Polar Research Institution (KOPRI)\
 •	Reproduce GFDL-CM2.1 combined with TOPAZ\
 •	Simulate Community Land Model version 4.5 (CLM4.5)\
