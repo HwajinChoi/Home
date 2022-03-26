@@ -9,7 +9,7 @@ Inha University, Incheon, Republic of Korea
 ## Relevant Experience
 **Researcher                                        March 2021 - present**\
 Department of Earth and Environmental Sciences, Chonbuk National University\
-•	Simulate Nucleus for European Modelling of the Ocean (NEMO4.0.6)\
+•	Simulate Nucleus for European Modelling of the Ocean (NEMO4.0.6)
 
 **Intern                                            October 2017 – 2018**\
 Units of Arctic Sea-Ice Prediction, Korea Polar Research Institution (KOPRI)\
@@ -20,7 +20,7 @@ Units of Arctic Sea-Ice Prediction, Korea Polar Research Institution (KOPRI)\
 ## Research Interests
 •	Arctic climate change\
 •	Change of hydrologic cycle in the Arctic\
-•	Modeling and simulation of global biogeochemical cycle\
+•	Modeling and simulation of global biogeochemical cycle
 
 ## Presentation
 **Poster presentation**\
